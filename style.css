@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+.header {
+    background-color:forestgreen;
+    height: 400px;
+    width: 40vw;
+    margin: 0 auto;
+    display: flex;
+}
+.salam {
+    color: red;
+    font-weight: 800;
+    margin-bottom: 60px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    position: relative;
+}
